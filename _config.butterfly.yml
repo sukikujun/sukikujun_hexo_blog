@@ -19,8 +19,8 @@ nav:
 menu:
   ホーム: / || fas fa-home
   アーカイブ: /archives/ || fas fa-archive
-  タグ: /tags/ || fas fa-tags
-  カテゴリー: /categories/ || fas fa-folder-open
+  # タグ: /tags/ || fas fa-tags
+  # カテゴリー: /categories/ || fas fa-folder-open
   # List||fas fa-list||hide:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
@@ -956,8 +956,8 @@ note:
   #  - flat      flat callout style with background, like on Mozilla or StackOverflow.
   #  - disabled  disable all CSS styles import of note tag.
   style: flat
-  icons: true
-  border_radius: 3
+  icons: false
+  border_radius: 5
   # Offset lighter of background in % for modern and flat styles (modern: -12 | 12; flat: -18 | 6).
   # Offset also applied to label tag variables. This option can work with disabled note tag.
   light_bg_offset: 0
