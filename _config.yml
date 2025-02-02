@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 'レナの日記'
 subtitle: ''
-description: ''
+description: 'ねぇレナは知ってるよ'
 keywords:
-author: John Doe
-language: en
+author: 'レナ'
+language: ja
 timezone: ''
 
 # URL
